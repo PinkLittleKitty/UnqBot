@@ -1,0 +1,19 @@
+{
+  "name": "bot-unq",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "lucaasbre",
+  "license": "ISC",
+  "dependencies": {
+    "@cloudlyteam/cloudlyapi.js": "^1.0.5",
+    "discord.js": "^13.7.0",
+    "enmap": "^5.9.0",
+    "marsnpm": "^0.5.2",
+    "mongoose": "^6.3.3"
+  }
+}
